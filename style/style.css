@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    color: white;
+}
+
+.main {
+    height: 785px;
+    background: url("../img/bg.jpg");
+}
